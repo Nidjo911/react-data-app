@@ -1,13 +1,7 @@
 export default function Data() {
-
-    return(
+    return (
         <>
-            <h2></h2>
+            <h2>new line</h2>
         </>
-
-
-
     )
-
 }
-

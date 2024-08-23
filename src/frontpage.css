@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+
+main {
+    background-color: darkolivegreen;
+    height: 80vh;
+
+}
+
+
+h1 {
+    color: aquamarine;
+    letter-spacing: normal;
+}
+
+p {
+
+    color: blanchedalmond
+}
